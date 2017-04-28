@@ -1,0 +1,41 @@
+    <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+      <modelVersion>4.0.0</modelVersion>
+      <groupId>com.pulispace</groupId>
+      <artifactId>bigbufferedimage</artifactId>
+      <version>0.1</version>
+      <packaging>jar</packaging>
+     
+      <name>BigBufferedImage</name>
+      <description>An extension for Java BufferedImage class for handling huge images.</description>
+      <url>https://github.com/MiklosPathy/BigBufferedImage/wiki</url>
+     
+      <licenses>
+        <license>
+          <name>Creative Commons CC0</name>
+          <url>https://creativecommons.org/publicdomain/zero/1.0/</url>
+          <distribution>repo</distribution>
+        </license>
+      </licenses>
+     
+      <scm>
+        <url>https://github.com/MiklosPathy/BigBufferedImage.git</url>
+      </scm>
+     
+      <!--
+	 <dependencies>
+        <dependency>
+          <groupId>...</groupId>
+          <artifactId>...</artifactId>
+          <version>...</version>
+        </dependency>
+        ...
+      </dependencies>
+           -->
+	 
+      <!--
+      NOT ALLOWED: (see FAQ)
+      <repositories></repositories>
+      <pluginRepositories></pluginRepositories>
+      -->
+    </project>
